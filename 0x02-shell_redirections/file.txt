@@ -13,3 +13,4 @@ drwxr-xr-x 6 root root 121 May 30 08:31 ..
 -rw-r--r-- 1 root root  18 May 30 10:06 #8-cwd_state#
 -rw-r--r-- 1 root root   0 May 30 10:11 file.txt
 -rw-r--r-- 1 root root   7 May 30 08:18 README.md
+-rw-r--r-- 1 root root   7 May 30 08:18 README.md
