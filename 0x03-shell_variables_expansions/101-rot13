@@ -1,0 +1,2 @@
+#!/bin/bash
+tr 'A-Za-z' 'Q-DR-Eq-dr-e'
