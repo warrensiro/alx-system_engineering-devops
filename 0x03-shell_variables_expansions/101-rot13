@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'N-Mn-m' 'D-QR-Cd-qr-c'
+tr 'A-Za-z' 'Q-DE-Pq-de-p'
